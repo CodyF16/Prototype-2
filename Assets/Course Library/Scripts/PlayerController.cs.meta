@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Course Library/Scripts/PlayerController.cs.meta
 guid: 8dd639e07fce6fc4aaef2f350e0b9239
+=======
+guid: 0aa1977c358b5a544afb615703e4b9f3
+>>>>>>> Stashed changes:Assets/Course Library/Scripts/MoveForward.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
